@@ -1,6 +1,6 @@
-# QR Code Generator with Tracking
+# QR Code Generator
 
-This project generates QR codes. It does NOT provide scan tracking functionality by itself.
+This project generates QR codes with a branded logo on it
 
 
 
